@@ -1,0 +1,12 @@
+html, body {
+  margin:0px;
+  height:100%;
+  background-color: black;
+}
+
+button {
+  width: 30%;
+  height: 15%;
+  text-align: center;
+}
+

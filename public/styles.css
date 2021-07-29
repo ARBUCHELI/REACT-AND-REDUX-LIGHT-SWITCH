@@ -1,0 +1,31 @@
+html {
+    background-color: black;
+}
+
+img {
+    width: 150px;
+  }
+  
+  img.rounded-corners {
+    border-radius: 30px;
+  }
+  
+  .header {
+    text-align: center;
+    margin: 0px 260px 0px 260px;
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 5px;
+    background-color: black;  
+    border: solid black 3px;
+  }
+  
+  .h1-header {
+    font-family: impact;
+    color:#FFD700;
+    font-size: 3em;
+  }
+
+#root {
+    text-align: center;
+    margin: 0px 260px 0px 260px;
+}
